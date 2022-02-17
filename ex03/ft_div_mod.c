@@ -6,11 +6,11 @@
 /*   By: esarigul <esarigul@student.42kocaeli.com.  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/02/16 19:53:16 by esarigul          #+#    #+#             */
-/*   Updated: 2022/02/16 20:28:51 by esarigul         ###   ########.tr       */
+/*   Updated: 2022/02/17 19:17:00 by esarigul         ###   ########.tr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-void	ft_div_mod(int a, int b, int *div, int *mod);
+void	ft_div_mod(int a, int b, int *div, int *mod)
 {
 	if (b != 0)
 	{

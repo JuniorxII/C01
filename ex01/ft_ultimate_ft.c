@@ -6,11 +6,11 @@
 /*   By: esarigul <esarigul@student.42kocaeli.com.  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/02/16 19:34:49 by esarigul          #+#    #+#             */
-/*   Updated: 2022/02/17 13:23:49 by esarigul         ###   ########.tr       */
+/*   Updated: 2022/02/17 19:16:10 by esarigul         ###   ########.tr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-void	ft_ultimate_ft(int *********nbr);
+void	ft_ultimate_ft(int *********nbr)
 {
 	*********nbr = 42;
 }

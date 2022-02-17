@@ -6,11 +6,11 @@
 /*   By: esarigul <esarigul@student.42kocaeli.com.  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/02/16 18:38:45 by esarigul          #+#    #+#             */
-/*   Updated: 2022/02/17 13:22:18 by esarigul         ###   ########.tr       */
+/*   Updated: 2022/02/17 19:14:52 by esarigul         ###   ########.tr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-void	ft_ft(int *nbr);
+void	ft_ft(int *nbr)
 {
 	*nbr = 42;
 }
